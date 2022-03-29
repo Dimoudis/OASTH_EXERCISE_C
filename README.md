@@ -1,2 +1,3 @@
 # Oasth_exercise_C
-Eksaskisi twn printf() kai scanf() functions, tou amyntikou programmatismou kai tou casting se glwssa C
+Μια ασκηση με ονομα ΟΑΣΘ (Οργανισμός Αστικών Συγκοινωνιών Θεσσαλονίκης) για την Εξασκηση των printf() και scanf() functions, του αμυντικου προγραμματισμου και του casting σε γλωσσα C.
+
